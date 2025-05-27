@@ -1,13 +1,18 @@
-# Tic Tac Toe (Console)
+# Tic Tac Toe Console Game
 
-A basic console-based Tic Tac Toe game written in C++.
+A simple two-player Tic Tac Toe game played in the console, written in C++.
 
 ## Features
 
-- Two-player gameplay
-- Simple text-based interface
-- Checks for wins and draws
+- Two players take turns entering their moves (X and O)
+- Input validation to prevent choosing occupied or invalid squares
+- Win detection for rows, columns, and diagonals
+- Displays the board after each move
+
+## How to Play
+
+Run the program, and players will be prompted to enter numbers (1-9) corresponding to board positions to place their marks.
 
 ## Notes
 
-Created from scratch as a beginner project to practice logic and control flow in C++.
+Built as a beginner project to practice arrays, loops, and game logic in C++.
